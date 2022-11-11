@@ -27,3 +27,10 @@ example：
 
 > 修改VScode Git路径：打开设置，输入git.path，修改json文件   
 > 使用linux style 例如：C:/mysoft/Git/Git/bin/git.exe  
+
+### 本地文件上传仓库 
+
+> git clone "repository" $~~~~~~~~~~$ //ssh   
+> git add . $~~~~~~~~~~~~~~~~~$ //all files    
+> git commit -m "commit"   
+> git push   
